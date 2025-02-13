@@ -1,0 +1,11 @@
+C:\Users\Adam\Documents\JobAssessment\WakettTech\CommonClasses\bin\Debug\net5.0\CommonClasses.deps.json
+C:\Users\Adam\Documents\JobAssessment\WakettTech\CommonClasses\bin\Debug\net5.0\CommonClasses.dll
+C:\Users\Adam\Documents\JobAssessment\WakettTech\CommonClasses\bin\Debug\net5.0\ref\CommonClasses.dll
+C:\Users\Adam\Documents\JobAssessment\WakettTech\CommonClasses\bin\Debug\net5.0\CommonClasses.pdb
+C:\Users\Adam\Documents\JobAssessment\WakettTech\CommonClasses\obj\Debug\net5.0\CommonClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\Documents\JobAssessment\WakettTech\CommonClasses\obj\Debug\net5.0\CommonClasses.AssemblyInfoInputs.cache
+C:\Users\Adam\Documents\JobAssessment\WakettTech\CommonClasses\obj\Debug\net5.0\CommonClasses.AssemblyInfo.cs
+C:\Users\Adam\Documents\JobAssessment\WakettTech\CommonClasses\obj\Debug\net5.0\CommonClasses.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Documents\JobAssessment\WakettTech\CommonClasses\obj\Debug\net5.0\CommonClasses.dll
+C:\Users\Adam\Documents\JobAssessment\WakettTech\CommonClasses\obj\Debug\net5.0\ref\CommonClasses.dll
+C:\Users\Adam\Documents\JobAssessment\WakettTech\CommonClasses\obj\Debug\net5.0\CommonClasses.pdb
